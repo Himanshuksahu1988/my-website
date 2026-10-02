@@ -5,11 +5,20 @@ import viteLogo from './assets/vite.svg'
 import './App.css'
 
 function App() {
+   const [message, setMessage] = useState("Welcome to my website");
+   const name = "Himanshu";
+   const role = "Automation Tester";
+
+   function handleClick() {
+  setMessage("Thanks for clicking!");
+}
+
   return (
     <div>
-      <h1>My Website</h1>
-      <p>Welcome to my website</p>
-      <button>Click Me</button>
+      <h1>Hello,{name}!</h1>
+      <h2>Role: {role}!</h2>
+      <p>{message}</p>
+      <button onClick={handleClick}>Click Me</button>
     </div>
   )
 }

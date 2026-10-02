@@ -19,6 +19,9 @@
 - `App.jsx` modified to display "Hello, My Website!"
 - Learned basic JSX structure
 - Added heading, paragraph, and button using JSX
+- Learned button `onClick` event
+- Created a `handleClick()` function
+- Used `alert()` when button is clicked
 
 ### Git
 
