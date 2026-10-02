@@ -6,9 +6,12 @@ import './App.css'
 
 function App() {
   return (
-    <h1>Hello, My Website!</h1>
+    <div>
+      <h1>My Website</h1>
+      <p>Welcome to my website</p>
+      <button>Click Me</button>
+    </div>
   )
 }
-
 
 export default App
