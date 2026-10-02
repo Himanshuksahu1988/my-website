@@ -1,27 +1,32 @@
 # My Website - Project Progress
 
-## Current Stack
+## Tech Stack
 - React
-- Spring Boot (planned)
-- MySQL (planned)
-- Docker (planned)
-- AWS (planned)
+- Spring Boot
+- MySQL
+- Docker
+- AWS
 
 ## Completed
-- Node.js installed
+
+### React
+- Node.js and npm verified
 - Vite React project created
-- Git initialized
+- React application running on localhost
+- `main.jsx` understood
+- `App.jsx` modified to display "Hello, My Website!"
+
+### Git
+- Git repository initialized
 - GitHub repository connected
-- Initial React project pushed
-- Changed App.jsx to display "Hello, My Website!"
-- Changes committed
+- Initial project pushed to GitHub
+- `PROJECT_PROGRESS.md` created
 
 ## Current Step
-React basics
+Learning and building the React frontend.
 
 ## Next Step
-Continue building the React homepage
+Continue with basic React development.
 
-## GitHub
-Repository: my-website
-Branch: main
+## Important
+Build the project slowly, one step at a time.
