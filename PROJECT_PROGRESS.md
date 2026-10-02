@@ -22,6 +22,9 @@
 - Learned button `onClick` event
 - Created a `handleClick()` function
 - Used `alert()` when button is clicked
+- Learned `useState`
+- Used `setMessage()` to update UI
+- Practiced changing messages with button clicks
 
 ### Git
 
