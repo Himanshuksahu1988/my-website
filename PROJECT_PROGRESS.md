@@ -11,20 +11,25 @@
 ## Completed
 
 ### React
-
-- Node.js and npm verified
-- Vite React project created
-- React application running on localhost
-- `main.jsx` understood
-- `App.jsx` modified to display "Hello, My Website!"
-- Learned basic JSX structure
-- Added heading, paragraph, and button using JSX
-- Learned button `onClick` event
-- Created a `handleClick()` function
-- Used `alert()` when button is clicked
-- Learned `useState`
+- Learned JSX variables
+- Used JavaScript variables inside JSX
+- Added a button using JSX
+- Learned `onClick`
+- Created an event handler function
+- Used `alert()` on button click
+- Learned React `useState`
+- Understood state value and state update function
 - Used `setMessage()` to update UI
-- Practiced changing messages with button clicks
+- Implemented message toggle using `if/else`
+- Learned `===` for strict equality comparison
+- Learned that `useState()` returns:
+  - Current state value
+  - State update function
+- Added a `count` state
+- Used `setCount(count + 1)` to increment the counter
+- Displayed the click count on the page
+- Used the ternary operator to display `time` or `times` correctly
+
 
 ### Git
 
